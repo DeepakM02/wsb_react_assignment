@@ -1,0 +1,24 @@
+.check_btn {
+  background-color: #e94152;
+}
+
+.bt_dotted {
+  background-image: linear-gradient(
+    to right,
+    black 33%,
+    rgba(255, 255, 255, 0) 0%
+  );
+  background-position: bottom;
+  background-size: 12px 1px;
+  background-repeat: repeat-x;
+}
+
+.price_font {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.best_price {
+  color: darkgoldenrod;
+  font-size: 0.8rem;
+}
